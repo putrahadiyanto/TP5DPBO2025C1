@@ -66,4 +66,4 @@ User dapat memilih salah satu data yang ada di tabel, maka akan mentrigger `mous
 - Apabila Cancel dipanggil, maka akan membersihkan form dengan memanggil method `clearForm()`
 
 # Dokumentasi
-d![Demo](dokumentasi/screen.gif)
+![Demo](dokumentasi/screen.gif)
